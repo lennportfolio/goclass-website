@@ -7,4 +7,3 @@ Marketing website for goCLASS — back office services (finance, compliance, leg
 
 ## Notes
 - Reviewed and browser-tested on 2026-09-11: all pages (Home, About, Services, Contact) render correctly, nav and contact form work, and the layout is responsive on mobile.
-- Outstanding items: Facebook, Instagram, and LinkedIn footer links are still placeholders (`#`) and need real URLs before launch.
